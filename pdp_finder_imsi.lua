@@ -1,5 +1,6 @@
 --[[
     19.12.2014 - added support of different diameter cmd codes
+    19.12.2014 - added support of the reject codes for gtp
 
 --]]
 do
